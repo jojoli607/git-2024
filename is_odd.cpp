@@ -1,4 +1,3 @@
-// is_odd.cpp
 #include <iostream>
 
 bool is_odd(int number) {

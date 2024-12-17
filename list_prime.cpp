@@ -1,4 +1,3 @@
-// list_prime.cpp
 #include <iostream>
 
 bool is_prime(int number) {
