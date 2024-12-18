@@ -90,10 +90,9 @@ git config --global user.email "你的 Email 地址"
 - `user.name` 是你的名稱，可以用真名或暱稱。
 - `user.email` 是你的電子郵件地址。
 
-:::info
-在 GitHub上操作時，你的名字是個人檔案設定的顯示名稱，電子郵件地址是[設定](https://github.com/settings/emails#primary_email_select_label)中的「Primary
-email address」。
-:::
+> [!NOTE]
+> 在 GitHub上操作時，你的名字是個人檔案設定的顯示名稱，電子郵件地址是[設定](https://github.com/settings/emails#primary_email_select_label)中的「Primary
+> email address」。
 
 你可以用以下指令確認設定是否成功：
 
@@ -149,10 +148,9 @@ git init
     git commit -m "第一次提交：新增 hello.txt"
     ```
 
-    :::info
-    - `-m` 是指輸入一個提交訊息，讓未來的你或別人知道這次變更做了什麼。
-    - 提交訊息可以是英文、中文或任何語言，但是不能是空的。
-    :::
+    > [!TIP]
+    > - `-m` 是指輸入一個提交訊息，讓未來的你或別人知道這次變更做了什麼。
+    > - 提交訊息可以是英文、中文或任何語言，但是不能是空的。
 
 5. 再次輸入 `git status`，你會發現工作區乾淨了，代表所有變更都已提交！
 
