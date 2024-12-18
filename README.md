@@ -1,33 +1,5 @@
 # Git & GitHub 入門課程
 
-:::spoiler
-
-- Who am I
-- What is Git
-- The history
-  - Things before Git
-  - Why Git was created
-- Installation and configuration
-  - Installing Git for Windows using `winget`
-  - Installing Git using package managers
-  - Usernames and emails
-  - Signing (Optional)
-- Create a new repository
-  - Write a Python script
-  - Initilize the repository
-  - Check the repository status
-  - Add the files to the staging area
-  - Make a commit
-- Commits, branches and forks
-- Clone, edit and publish changes with GitHub
-  - Fork and clone an existing repository
-  - Make a branch
-  - Make changes
-  - Commit and push local changes to remote
-  - Open a pull request
-
-:::
-
 ## 講者
 
 何承軒 · Riley Ho
